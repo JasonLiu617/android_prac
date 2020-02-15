@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="myFunction">
+        <item>Google</item>
+        <item>Phone</item>
+        <item>Hello</item>
+        <item>Data</item>
+    </string-array>
+</resources> 
